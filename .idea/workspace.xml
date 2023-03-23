@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4e9af871-0c61-46cd-bc90-a0dc84891d70" name="Changes" comment="Included method descriptions.">
-      <change afterPath="$PROJECT_DIR$/src/QuizTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Year-11-CS-Iteration-Quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Year-11-CS-Iteration-Quiz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.java" afterDir="false" />
@@ -53,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Quiz">
+  <component name="RunManager" selected="JUnit.QuizTest">
     <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Quiz" />
       <module name="Year-11-CS-Iteration-Quiz" />
@@ -90,12 +93,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuizTest.toCamelCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Year-11-CS-Iteration-Quiz" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuizTest" />
+      <option name="METHOD_NAME" value="toCamelCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Quiz" />
         <item itemvalue="JUnit.QuizTest" />
-        <item itemvalue="JUnit.QuizTest.numberOfVowels" />
+        <item itemvalue="JUnit.QuizTest.toCamelCase" />
         <item itemvalue="JUnit.QuizTest.notDivisible" />
+        <item itemvalue="JUnit.QuizTest.numberOfVowels" />
+        <item itemvalue="Application.Quiz" />
       </list>
     </recent_temporary>
   </component>
